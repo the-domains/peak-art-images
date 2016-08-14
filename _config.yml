@@ -1,4 +1,3 @@
-layout_spectrum: 0.04651275952346623
 typography_spectrum: 0.6772642254363745
 color:
   brandStrength: 0.034982353216037154
@@ -11,4 +10,11 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.04651275952346623
+author:
+  name: Stefan Schaaf
+  email: info@peakartimages.de
+  url: www.peakartimages.de
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/41015fc9-63bb-4b8d-b683-066563b82ca8.jpg
 name: PEAK ART IMAGES
